@@ -235,3 +235,23 @@ npm run build
 ## License
 
 Academic use. You may modify and submit it as part of a university project, but review all code and adapt it to your instructor requirements.
+
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Projects
+![Projects](screenshots/projects.png)
+
+### Project Details
+![Project Details](screenshots/project-details.png)
+
+### My Tasks
+![My Tasks](screenshots/my-tasks.png)
+
+### Reports
+![Reports](screenshots/reports.png)
